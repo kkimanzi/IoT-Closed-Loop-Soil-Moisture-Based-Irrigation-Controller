@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Watering_Plan>
+  <Plant Variety="Rice">
+    <Part>
+      <Day>0-150</Day>
+      <Moisture>0.25-0.45</Moisture>
+    </Part>
+    <Part>
+      <Day>150-300</Day>
+      <Moisture>0.45-0.65</Moisture>
+    </Part>
+    <Part>
+      <Day>300-320</Day>
+      <Moisture>0.2-0.3</Moisture>
+    </Part>
+  </Plant>
+<Plant Variety="Toffee"><Part><Day>0-2</Day><Moisture>0.45-0.6</Moisture></Part><Part><Day>2-120</Day><Moisture>0.55-0.6</Moisture></Part></Plant></Watering_Plan>
